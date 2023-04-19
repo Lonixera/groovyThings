@@ -1,0 +1,17 @@
+{
+    "hpath": $EPC,
+    "load_package_once" : true,
+    "enable": false,
+    "version" : "19.5",
+
+    "env": [
+        {
+            "EPC":  "C:/Users/gsq_emakhova/Documents/where do i put this/EPC_PackageMasterclass/groovyThings"
+        },
+
+        {
+            "Food": "je'a une croissant et kafe (?) Bien oui oui"
+        }
+
+    ]
+}
